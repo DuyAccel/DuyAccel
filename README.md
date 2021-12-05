@@ -3,7 +3,7 @@
 ***
 * My name is **Duy**
 * I'm a 2nd year student at **Sai Gon University**
-* I'm interested in **Gaming**, **Thinking**, **Community** and **Volunteer Activities**
+* Beside **Learing** I'm interested in **Gaming**, **Reading LN**, **Community** and **Volunteer Activities**
 * **C/C++** and **Java** are the Languages I am learning
 * You can contact me at [Facebook](https://www.facebook.com/Duy.Accel.02/) or hieuduyno1@gmail.com
 
