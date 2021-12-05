@@ -7,6 +7,8 @@
 * **C/C++** and **Java** are the Languages I am learning
 * You can contact me at [Facebook](https://www.facebook.com/Duy.Accel.02/) or hieuduyno1@gmail.com
 
+***
+_have a good day_
 <!---
 DuyAccel/DuyAccel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
