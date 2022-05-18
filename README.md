@@ -5,7 +5,7 @@
 * I'm a 2nd year student at **Sai Gon University**
 * Beside **Learing** I'm interested in **Gaming**, **Reading LN**, **Community** and **Volunteer Activities**
 * **C/C++** and **Java** are the Languages I am learning
-* You can contact to me at [Facebook](https://www.facebook.com/Duy.Accel.02/) or hieuduyno1@gmail.com
+* You can contact me by [Facebook](https://www.facebook.com/Duy.Accel.02/) or email hieuduyno1@gmail.com
 
 ***
 _have a good day_
