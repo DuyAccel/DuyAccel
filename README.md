@@ -5,7 +5,7 @@
 * I'm a senior year student at **Sai Gon University**
 * Beside **Learing** I'm interested in **Football**, **Reading**, **Community** and **Volunteer Activities**
 * **Python** is my favorite language. I also familiar with **C/C++, Java** and **C#**.
-* You can contact me by [Facebook](https://www.facebook.com/Duy.Accel.02/) or email hieuduyno1@gmail.com
+* You can contact me by [Facebook](https://www.facebook.com/Duy.Accel.02/) or email duynguyen6302@gmail.com
 
 ***
 _have a good day_
