@@ -1,11 +1,14 @@
-![markdown](https://www.volunteeringoptions.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-01-at-12.18.35.png)
-# :heart::heart::heart: **Hi** :heart::heart::heart:
+![image](https://github.com/DuyAccel/DuyAccel/assets/84909478/07defc3a-1fc9-4ae2-ab63-fc092777beb2)
+
+# :heart::heart::heart: **I am Nguyen Chau Hieu Duy** :heart::heart::heart:
 ***
-* My name is **Duy**
-* I'm a senior year student at **Sai Gon University**
-* Beside **Learing** I'm interested in **Football**, **Reading**, **Community** and **Volunteer Activities**
+* I'm a senior year student at **Sai Gon University**.
 * **Python** is my favorite language. I also familiar with **C/C++, Java** and **C#**.
-* You can contact me by [Facebook](https://www.facebook.com/Duy.Accel.02/) or email duynguyen6302@gmail.com
+* I'm interested in **Football**, **Reading**, **Community** and **Volunteer Activities**
+* Contact me:
+  - [Facebook](https://www.facebook.com/Duy.Accel.02/)
+  - duynguyen6302@gmail.com (business)
+  - nguyenchauhieuduy@outlook.com (research)
 
 ***
 _have a good day_
