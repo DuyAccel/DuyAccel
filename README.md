@@ -2,7 +2,7 @@
 
 # :heart::heart::heart: **I am Nguyen Chau Hieu Duy** :heart::heart::heart:
 ***
-* I'm a senior year student at **Sai Gon University**.
+* I'm a senior student at **Sai Gon University**.
 * **Python** is my favorite language. I also familiar with **C/C++, Java** and **C#**.
 * I'm interested in **Football**, **Reading**, **Community** and **Volunteer Activities**
 * Contact me:
